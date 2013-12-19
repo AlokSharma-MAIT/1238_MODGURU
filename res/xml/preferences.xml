@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Settings" >
+
+    <PreferenceCategory android:title="General" >
+        <EditTextPreference
+            android:defaultValue="Anonymous"
+            android:key="general_participant_id"
+            android:title="Participant Name / Participant ID" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="general_stay_awake"
+            android:summary="Screen won&apos;t Black out while attempting Quiz."
+            android:title="Stay Awake" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="general_swipe_enabled"
+            android:summary="Use Swipe Gesture to Navigate between Questions while attempting Quiz."
+            android:title="Swipe Enabled" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Advanced" >
+        <EditTextPreference
+            android:defaultValue="modGuru"
+            android:key="advanced_network_ssid"
+            android:title="Network SSID" />
+
+        <Preference
+            android:enabled="false"
+            android:title="Backup Data" />
+        <Preference
+            android:enabled="false"
+            android:title="Restore Data" />
+        <Preference
+            android:key="advanced_import"
+            android:title="Import File" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="About" >
+        <Preference
+            android:key="about_build_version"
+            android:title="Build Version" />
+        <Preference
+            android:key="about_send_feedback"
+            android:title="Feedback" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Legal &amp; Privacy" >
+        <Preference
+            android:key="lp_license"
+            android:title="License" />
+        <Preference
+            android:key="lp_open_source"
+            android:title="Open Source Attributions" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
