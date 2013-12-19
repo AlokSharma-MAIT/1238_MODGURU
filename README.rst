@@ -13,7 +13,7 @@ Since the Aakash tablet doesn’t have a Bluetooth, it is very difficult to share 
 7.	Install (Installation procedure): 
 1. Open directory where you copied '|GURUR|.apk'.
 2. Click the file to install the application.
-3. Click 'OK' in the requirements dialog box to continue with installation process.
+3. Click 'OK' in the requirements dialogue box to continue with installation process.
 4. Wait till application installs.
 5. Click 'Open Application' to run the application.
 
@@ -31,26 +31,28 @@ Since the Aakash tablet doesn’t have a Bluetooth, it is very difficult to share 
 1. Click 'Start Quiz' button main screen of the application.
 2. Select the quiz you would like to attempt.
 3. Read the information about the quiz and click 'Start Quiz' to make an attempt.
-4. Click checkboxs to select your answer.
-5. Click the arrows, next to 'Submit' button to navigate or select question number from the list abouve question.
+4. Click checkboxes to select your answer.
+5. Click the arrows, next to 'Submit' button to navigate or select question number from the list about question.
 6. Click the 'Submit' button to end the quiz and view your result.
 3. Broadcasting Quiz.
 1. Click 'Start Quiz' button main screen of the application.
-2. Select the quiz you would like to broadcast and long press it untill an menu pop-ups.
+2. Select the quiz you would like to broadcast and long press it until an menu pop-ups.
 3. Select 'Broadcast Quiz' to broadcast quiz.
 4. Enter the password you entered while creating the quiz.
 4. View Result.
 1. Click 'Start Quiz' button main screen of the application.
-2. Select the quiz you would like to view result of and long press it untill an menu pop-ups.
+2. Select the quiz you would like to view result of and long press it until an menu pop-ups.
 3. Select 'View Result' to view the result of the quiz.
 4. Enter the password you entered while creating the quiz.
 
 9. Contact (email id or mailing list link/google-group):-
-1. arpitgoel@ymail.com
-2. ankitpopli_91@yahoo.co.in
-3. abhinesh.kaushik@gmail.com
-4. mahima.kukreja@yahoo.com
-5. vageesh_vyas@yahoo.com
+1. namita@mait.ac.in
+2. alok@mait.ac.in
+3. arpitgoel@ymail.com
+4. ankitpopli_91@yahoo.co.in
+5. abhinesh.kaushik@gmail.com
+6. mahima.kukreja@yahoo.com
+7. vageesh_vyas@yahoo.com
 
 10. License (GNU GPL version 3 with link to full license on gnu.org
     site.): http://www.gnu.org/licenses/gpl.html
